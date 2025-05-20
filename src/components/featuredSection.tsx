@@ -14,7 +14,7 @@ type Product = {
 // Main component
 export default function featuredSection() {
   // Sample product data
-  const [products, setProducts] = useState<Product[]>([
+  const [products] = useState<Product[]>([
     {
       id: '1',
       name: 'Classic Blue Watch',
