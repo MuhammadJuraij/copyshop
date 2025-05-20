@@ -1,4 +1,4 @@
-import React from 'react'
+
 import FeaturedSection from '../components/featuredSection'
 
 const Home = () => {
